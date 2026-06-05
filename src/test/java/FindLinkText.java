@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.Test;
 
 public class FindLinkText {
     WebDriver driver;
